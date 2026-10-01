@@ -1,0 +1,7 @@
+name = "bloxdeados-chat"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://bloxdeados.com,https://www.bloxdeados.com,https://jeep200092919.github.io"
+GEMINI_MODEL = "gemini-2.5-flash"
