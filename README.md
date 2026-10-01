@@ -1,18 +1,16 @@
 # BloxDeados
 
-Site estático (`index.html`) publicado pelo GitHub Pages em `bloxdeados.com` (arquivo `CNAME`).
+Site estático (`index.html`) publicado pelo GitHub Pages em `https://jeep200092919.github.io/BloxDeados/`.
 
 ## Publicar no GitHub Pages
 
 1. No repositório: **Settings → Pages**.
 2. Em **Build and deployment**, escolha **Deploy from a branch**, a branch com o site e a pasta `/ (root)`.
-3. Em **Custom domain**, informe `bloxdeados.com` e marque **Enforce HTTPS** quando liberar.
+3. Deixe **Custom domain** vazio. O site fica no endereço gratuito acima.
 
-Sem o domínio, o site fica em `https://jeep200092919.github.io/bloxdeados/`.
+## Domínio próprio (opcional, pago)
 
-## Domínio
-
-O domínio precisa ser registrado por você num registrador. No painel de DNS, crie:
+O `bloxdeados.com` ainda não foi registrado. Se um dia comprar, adicione um arquivo `CNAME` na raiz com o domínio e, no painel de DNS do registrador, crie:
 
 | Tipo  | Nome | Valor |
 |-------|------|-------|
